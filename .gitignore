@@ -11,6 +11,7 @@ VectorDB/
 # uv / pip
 .uv/
 dist/
+uv.lock
 
 # Env
 .env
