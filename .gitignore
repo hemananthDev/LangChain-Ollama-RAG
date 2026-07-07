@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# VectorDB data
+VectorDB/
+
+# uv / pip
+.uv/
+dist/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
